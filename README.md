@@ -10,6 +10,24 @@ Examples for each structure
 
 three-word sentences ( SV, SVO, Linking Verb) inside the exercises/ folder
 
+#  Key Principles for Good Conversation
+
+The effectiveness of three-word sentences in conversation comes down to three core principles:
+
+#  1. Clarity
+
+The meaning is immediately understood without needing extra context.
+
+#  2. Conciseness
+
+They deliver the message efficiently.
+
+#  3. Completeness
+
+They form a grammatically complete idea or clause.
+
+These simple structures are fundamental to fluent and natural English communication.
+
 
 #  Purpose
 
