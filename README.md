@@ -1,4 +1,12 @@
-#  Three-Word English Sentences 
+
+# Three-Word English Sentences
+
+![English Language](https://img.shields.io/badge/English-Language-blue)
+![Grammar Practice](https://img.shields.io/badge/Grammar-Practice-orange)
+![SV SVO Structure](https://img.shields.io/badge/SV_SVO-Structure-green)
+![Language Learning](https://img.shields.io/badge/Language-Learning-purple)
+![Sentence Structure](https://img.shields.io/badge/Sentence-Structure-red)
+![Educational Project](https://img.shields.io/badge/Educational-Project-yellow)
 
 A good three-word sentence in English conversation typically uses the Subject-Verb (SV) or Subject-Verb-Object (SVO) structure to express clear and complete ideas. These formats are simple and foundational for fluent English.
 
